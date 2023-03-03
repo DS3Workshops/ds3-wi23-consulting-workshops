@@ -16,4 +16,5 @@ This repository contains all the reference materials for Consulting workshops.
 ### Big thank you to all the workshop members that contributed to this repository! 
 ### Credit Section (Add you name below if you contributed to this repository)
 Qiaoxuan (Josh) Wang
+
 Joyce Lu
