@@ -4,7 +4,7 @@ This repository contains all the reference materials for Consulting workshops.
 ## How to navigate this repo? 
 
 <b>For workshop participants:</b> 
-* You can find the code in the `src` directory and the slides in the `slides` directory. 
+* You can find the py notebooks and data in the `notebooks` directory and the slides in the `slides` directory. 
 * All the workshop content should be in its independent folders; the name of the folder should be your workshop name.  
 
 <b>For workshop members:</b>
